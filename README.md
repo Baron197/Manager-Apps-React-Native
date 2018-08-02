@@ -11,7 +11,7 @@ __Fitur yang dimiliki :__
 
 [![Videonya Baron](https://i.ytimg.com/vi/o06ldbMLOgs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBwhNVty4kyqtElRaUVVDKWtDO3tQ)](https://www.youtube.com/watch?v=o06ldbMLOgs)
 
-## Best Story Ever! |:smirk:|
+## Best Story Ever! :smirk:
 
 ```javascript
 var kucingSans = 'KucingSans';
@@ -19,7 +19,7 @@ var kucingGas = 'KucingGas';
 
 console.log(`${kucingSans} berdamai dengan ${kucingGas} karena dia Sans`);
 ```
-## Tabel Jenis Kucing |:smirk:|
+## Tabel Jenis Kucing :smirk:
 
 Jenis | Umur | Keunikan
 ------|------|---------
